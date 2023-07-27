@@ -2,6 +2,10 @@
 
 ![流程图](./img/时序图.jpg)
 
+在mini example中实现了三个案例：
+(1) echoserver;
+(2) chatserver;
+(3) filetransfer server.
 
 ## 功能介绍
 
